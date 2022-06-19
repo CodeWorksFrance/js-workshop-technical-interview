@@ -1,0 +1,22 @@
+{
+  "name": "js-workshop-technical-interview",
+  "version": "1.0.0",
+  "description": "Home made kata for crafting a simple legacy code using Golden master, characterization tests, refactoring etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeWorksFrance/js-workshop-technical-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeWorksFrance/js-workshop-technical-interview/issues"
+  },
+  "homepage": "https://github.com/CodeWorksFrance/js-workshop-technical-interview#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
