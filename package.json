@@ -4,7 +4,8 @@
   "description": "Home made kata for crafting a simple legacy code using Golden master, characterization tests, refactoring etc.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
