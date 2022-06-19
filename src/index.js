@@ -17,3 +17,7 @@ const main = (rl) => {
 
 main(rl);
 
+const onErr = (err) => {
+    console.log(err);
+    return 1;
+}
